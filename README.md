@@ -4,29 +4,11 @@
 
 To run the sketch locally, open `index.html` in Google Chrome using Live Server.
 
-Sound files must be present in `assets/sounds/` before running:
-
-- `assets/sounds/freesound_community-metal-hit-cartoon-7118.mp3`
-- `assets/sounds/freesound_community-the-portal-90750.mp3`
-- `assets/sounds/mondamusic-retro-arcade-game-music-512837.mp3`
-- `assets/sounds/musheran-win-176035.mp3`
-
-Image files must be present in `assets/images/` before running:
-
-- `glaDOS.jpg`
-- `R.jpg`
-
 **Player 1 Controls:**
 
 - Move: A / D
-- Shoot Portal: F
+- Shoot Slime: F
 - Barrier: G
-
-**Player 2 Controls:**
-
-- Move: Arrow Keys
-- Shoot Portal: K
-- Barrier: L
 
 Press **ENTER** to start or rematch.
 
