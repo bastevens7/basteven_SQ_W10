@@ -26,8 +26,8 @@ The console will show any errors in your sketch.
 | `assets/sounds/freesound_community-the-portal-90750.mp3`       | Freesound Community, The Portal — Freesound.org [1]        |
 | `assets/sounds/freesound_community-metal-hit-cartoon-7118.mp3` | Freesound Community, Metal Hit Cartoon — Freesound.org [2] |
 | `assets/sounds/musheran-win-176035.mp3`                        | Musheran, Win — Freesound.org [3]                          |
-| `assets/images/glaDOS.jpg`                                     | GLaDOS Image — AlphaCoders [4]                             |
-| `assets/images/R.jpg`                                          | Portal Arena Background — WallpaperFlare [5]               |
+| `assets/images/slimey.jpg`                                     | Slime Rancher 2 Wallpaper — WallpaperAccess [8]            |
+| `assets/images/slimebackground.jpg`                            | Slime Rancher — PlayStation [5]                            |
 | `assets/sounds/mondamusic-retro-arcade-game-music-512837.mp3`  | MondaMusic, Retro Arcade Game Music — Pixabay [6]          |
 
 ## References
@@ -38,8 +38,8 @@ The console will show any errors in your sketch.
 
 [3] Musheran. n.d. _Win_. Freesound.org. Retrieved May 27, 2026, from https://freesound.org/people/musheran/sounds/176035/
 
-[4] _GLaDOS Image_. n.d. AlphaCoders. Retrieved May 27, 2026, from https://wall.alphacoders.com/
+[4] PlayStation. n.d. Slime Rancher. PlayStation. Retrieved May 27, 2026, from https://www.playstation.com/en-us/games/slime-rancher/
 
-[5] _Portal Arena Background_. n.d. WallpaperFlare. Retrieved May 27, 2026, from https://www.wallpaperflare.com/
+[5] Slime Rancher 2 Wallpaper. n.d. WallpaperAccess. Retrieved May 27, 2026, from https://wallpaperaccess.com/slime-rancher-2
 
 [6] MondaMusic. 2026. _Retro Arcade Game Music_. Pixabay. Retrieved May 27, 2026, from https://pixabay.com/music/electronic-retro-arcade-game-music-487316/
