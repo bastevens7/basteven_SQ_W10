@@ -19,6 +19,14 @@ Press **ENTER** to start or rematch.
 
 The console will show any errors in your sketch.
 
+## What Changed
+
+I switched the theme from portal to slimerancher
+I changed all assets in accordance with this theme change as well as any text assoicated
+I added a basic AI to the opponet so you can play without another person
+I added a timer that counts down, if both players are still alive it ends in a draw
+I added a new draw screen for when this occurs
+
 ## Assets
 
 | File                                                           | Source                                                     |
